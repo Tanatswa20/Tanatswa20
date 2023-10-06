@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nuxt 3, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tanatswa20](https://github.com/Tanatswa20)
+- 👨‍💻 All of my projects are available at [https://github.com/Tanatswa20](https://github.com/Tanatswadiv)
 
 - 💬 Ask me about **Html ,Css**
 
